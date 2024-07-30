@@ -1,0 +1,101 @@
+Region,Company,Assignee Support Group(),Assignee Full Name,Ticket Type,Inc Resolution,UTS Proritt,Inc Summar,Product,Functional Category Tier 3,Create date,Env type(prod/nprod),Env name,operatonal category tier 3,res cat tier 2,rws cat tier 3,incident mins to resolve,mmtr(hrs)
+CALA,CompanyA,SupportGroup3,Alice Johnson,Service Request,In Progress,Medium,LDVFUUP4KK,Product3,Category1,2023-01-01,prod,Env1,OpCategory1,ResCategory1,RwsCategory2,791,10.33
+APAC,CompanyA,SupportGroup1,Alice Johnson,Change Request,In Progress,Low,GCMPFNC4HZ,Product1,Category1,2023-01-02,prod,Env1,OpCategory3,ResCategory2,RwsCategory2,1164,2.6
+EMEA,CompanyA,SupportGroup3,Jane Smith,Incident,Resolved,Low,R64MVXHVPF,Product2,Category3,2023-01-03,prod,Env2,OpCategory3,ResCategory2,RwsCategory2,1138,14.3
+NAM,CompanyA,SupportGroup3,John Doe,Change Request,Resolved,Critical,93O1LQL0O1,Product1,Category2,2023-01-04,prod,Env2,OpCategory3,ResCategory3,RwsCategory1,372,1.39
+NAM,CompanyD,SupportGroup3,John Doe,Change Request,Resolved,Medium,MN2ESMUN8O,Product2,Category2,2023-01-05,nprod,Env2,OpCategory3,ResCategory3,RwsCategory1,1029,7.27
+NAM,CompanyD,SupportGroup2,Jane Smith,Service Request,Resolved,High,TXH1F7QDUS,Product2,Category3,2023-01-06,prod,Env2,OpCategory2,ResCategory3,RwsCategory1,1107,12.02
+NAM,CompanyB,SupportGroup2,Bob Brown,Change Request,Unresolved,Low,543SF0UEF7,Product1,Category1,2023-01-07,nprod,Env1,OpCategory1,ResCategory2,RwsCategory1,566,21.67
+NAM,CompanyC,SupportGroup2,Jane Smith,Change Request,In Progress,Low,KKS1JZ6POD,Product2,Category2,2023-01-08,prod,Env1,OpCategory1,ResCategory3,RwsCategory3,1082,12.95
+CALA,CompanyD,SupportGroup1,Alice Johnson,Service Request,Unresolved,Low,7QU8NEM9YT,Product2,Category3,2023-01-09,prod,Env2,OpCategory3,ResCategory3,RwsCategory1,1045,20.57
+NAM,CompanyB,SupportGroup3,Alice Johnson,Service Request,Unresolved,Critical,7JF2SD7WX4,Product3,Category2,2023-01-10,prod,Env2,OpCategory2,ResCategory1,RwsCategory1,1177,20.73
+EMEA,CompanyD,SupportGroup1,Alice Johnson,Incident,In Progress,Critical,69T5NLPAUE,Product1,Category1,2023-01-11,nprod,Env2,OpCategory3,ResCategory1,RwsCategory3,406,21.42
+NAM,CompanyA,SupportGroup1,Jane Smith,Change Request,In Progress,Medium,4ABGD4UGAZ,Product2,Category2,2023-01-12,nprod,Env1,OpCategory3,ResCategory1,RwsCategory3,1034,12.56
+APAC,CompanyC,SupportGroup3,Jane Smith,Service Request,Resolved,Critical,I03SCTE3DV,Product1,Category3,2023-01-13,nprod,Env1,OpCategory1,ResCategory3,RwsCategory3,1421,9.73
+EMEA,CompanyB,SupportGroup2,Alice Johnson,Service Request,Unresolved,Low,Q6YINMLJME,Product3,Category3,2023-01-14,prod,Env1,OpCategory1,ResCategory1,RwsCategory2,1224,22.41
+APAC,CompanyA,SupportGroup1,Alice Johnson,Service Request,Unresolved,Low,989SUQ8GL1,Product2,Category3,2023-01-15,prod,Env2,OpCategory2,ResCategory1,RwsCategory3,262,13.49
+EMEA,CompanyB,SupportGroup2,John Doe,Incident,In Progress,Low,WGE7QXXZ6D,Product1,Category3,2023-01-16,prod,Env1,OpCategory1,ResCategory1,RwsCategory2,990,22.72
+CALA,CompanyD,SupportGroup2,Jane Smith,Incident,Unresolved,Critical,NNS3WTN4JO,Product3,Category3,2023-01-17,nprod,Env3,OpCategory1,ResCategory1,RwsCategory3,936,12.9
+APAC,CompanyA,SupportGroup2,Alice Johnson,Service Request,Unresolved,Low,8EEDQTEEXB,Product2,Category1,2023-01-18,nprod,Env2,OpCategory1,ResCategory1,RwsCategory3,84,6.51
+NAM,CompanyB,SupportGroup1,Bob Brown,Service Request,Unresolved,Medium,5WXNISNX9L,Product2,Category1,2023-01-19,prod,Env3,OpCategory2,ResCategory3,RwsCategory1,862,3.39
+EMEA,CompanyB,SupportGroup1,Bob Brown,Change Request,Resolved,Critical,9HN7W4PYLG,Product3,Category1,2023-01-20,nprod,Env2,OpCategory3,ResCategory1,RwsCategory1,209,10.28
+APAC,CompanyD,SupportGroup2,Alice Johnson,Incident,Resolved,Low,UBBYRYWLZ7,Product1,Category1,2023-01-21,prod,Env3,OpCategory1,ResCategory1,RwsCategory2,1151,18.56
+APAC,CompanyD,SupportGroup3,Bob Brown,Change Request,Unresolved,High,4I2J88IA1U,Product3,Category3,2023-01-22,prod,Env2,OpCategory2,ResCategory3,RwsCategory2,1301,14.47
+EMEA,CompanyC,SupportGroup2,John Doe,Incident,In Progress,Critical,SJUQ84N5BM,Product2,Category3,2023-01-23,nprod,Env3,OpCategory2,ResCategory1,RwsCategory3,494,12.35
+NAM,CompanyA,SupportGroup3,Alice Johnson,Service Request,Unresolved,Low,0RAVCTUYD3,Product3,Category3,2023-01-24,nprod,Env3,OpCategory1,ResCategory1,RwsCategory2,1310,12.53
+NAM,CompanyA,SupportGroup1,John Doe,Incident,Unresolved,Low,ZQF71EOQ16,Product3,Category2,2023-01-25,nprod,Env2,OpCategory2,ResCategory3,RwsCategory1,812,10.83
+APAC,CompanyD,SupportGroup3,John Doe,Incident,Resolved,Medium,TMMVEMH66U,Product1,Category2,2023-01-26,nprod,Env2,OpCategory3,ResCategory2,RwsCategory3,1205,1.58
+NAM,CompanyD,SupportGroup3,Alice Johnson,Service Request,Resolved,Critical,1R6R9FRWFF,Product1,Category2,2023-01-27,nprod,Env1,OpCategory2,ResCategory2,RwsCategory2,922,21.78
+CALA,CompanyB,SupportGroup3,Alice Johnson,Incident,In Progress,Low,DYCNULO0RJ,Product1,Category2,2023-01-28,prod,Env3,OpCategory1,ResCategory2,RwsCategory3,923,4.1
+NAM,CompanyC,SupportGroup1,John Doe,Incident,Unresolved,Medium,UARDTYW1RO,Product3,Category2,2023-01-29,nprod,Env2,OpCategory3,ResCategory1,RwsCategory3,1419,1.71
+EMEA,CompanyB,SupportGroup1,Jane Smith,Service Request,Resolved,Low,ZKRSG671RB,Product2,Category1,2023-01-30,nprod,Env2,OpCategory2,ResCategory2,RwsCategory1,337,2.57
+NAM,CompanyD,SupportGroup1,Bob Brown,Service Request,Resolved,Critical,PPNKU89SJA,Product3,Category2,2023-01-31,nprod,Env3,OpCategory2,ResCategory1,RwsCategory1,994,16.69
+EMEA,CompanyC,SupportGroup3,John Doe,Service Request,Resolved,Low,AY7WB9XJMA,Product2,Category2,2023-02-01,nprod,Env1,OpCategory3,ResCategory3,RwsCategory3,1226,19.49
+NAM,CompanyB,SupportGroup2,Alice Johnson,Service Request,In Progress,Critical,FQCS6ZG22M,Product3,Category1,2023-02-02,prod,Env3,OpCategory1,ResCategory2,RwsCategory1,1158,23.53
+APAC,CompanyD,SupportGroup3,Bob Brown,Change Request,Resolved,Critical,I0LJZ8RG8A,Product1,Category3,2023-02-03,prod,Env1,OpCategory2,ResCategory1,RwsCategory1,38,7.04
+CALA,CompanyD,SupportGroup1,Bob Brown,Incident,Unresolved,Low,T65JF4FI0M,Product1,Category3,2023-02-04,prod,Env3,OpCategory2,ResCategory3,RwsCategory1,417,7.12
+EMEA,CompanyA,SupportGroup1,Bob Brown,Service Request,Resolved,Critical,0HCQB5LPUU,Product2,Category1,2023-02-05,nprod,Env1,OpCategory1,ResCategory2,RwsCategory3,174,12.09
+CALA,CompanyD,SupportGroup3,Bob Brown,Change Request,Unresolved,Medium,9ZND9WMUXU,Product1,Category3,2023-02-06,nprod,Env3,OpCategory1,ResCategory3,RwsCategory2,1188,22.86
+APAC,CompanyD,SupportGroup1,Alice Johnson,Incident,Unresolved,Low,GX7H68S7MD,Product3,Category1,2023-02-07,prod,Env1,OpCategory3,ResCategory1,RwsCategory3,169,22.52
+CALA,CompanyD,SupportGroup1,Jane Smith,Change Request,In Progress,Critical,T6CJD10QBN,Product1,Category3,2023-02-08,prod,Env3,OpCategory2,ResCategory2,RwsCategory1,924,8.42
+EMEA,CompanyB,SupportGroup3,Bob Brown,Change Request,Resolved,High,SN2KVSV2W4,Product3,Category1,2023-02-09,prod,Env1,OpCategory3,ResCategory1,RwsCategory2,694,5.24
+CALA,CompanyD,SupportGroup2,John Doe,Service Request,Resolved,Critical,Y5X8NUU808,Product1,Category1,2023-02-10,nprod,Env3,OpCategory2,ResCategory1,RwsCategory2,440,17.55
+NAM,CompanyB,SupportGroup1,Alice Johnson,Change Request,In Progress,Medium,XTGQ4E0S34,Product1,Category1,2023-02-11,nprod,Env2,OpCategory3,ResCategory1,RwsCategory1,267,11.65
+APAC,CompanyB,SupportGroup3,Jane Smith,Incident,In Progress,Low,ZLUUYIQ7YV,Product1,Category1,2023-02-12,prod,Env1,OpCategory1,ResCategory3,RwsCategory2,1326,12.17
+EMEA,CompanyB,SupportGroup3,Alice Johnson,Service Request,Unresolved,Low,T9JELUCR9D,Product2,Category3,2023-02-13,prod,Env3,OpCategory1,ResCategory3,RwsCategory2,800,17.34
+CALA,CompanyB,SupportGroup2,John Doe,Change Request,Resolved,High,SGG2UD7VXV,Product1,Category1,2023-02-14,nprod,Env3,OpCategory2,ResCategory1,RwsCategory1,996,23.27
+CALA,CompanyB,SupportGroup3,Jane Smith,Incident,Unresolved,High,HVDCSA2LZN,Product3,Category2,2023-02-15,prod,Env3,OpCategory2,ResCategory3,RwsCategory3,108,23.25
+APAC,CompanyB,SupportGroup2,Bob Brown,Change Request,In Progress,Critical,FBV8PW171Z,Product2,Category3,2023-02-16,prod,Env3,OpCategory2,ResCategory2,RwsCategory1,1309,1.76
+CALA,CompanyB,SupportGroup2,Jane Smith,Incident,Unresolved,Medium,FN33CR81AI,Product2,Category3,2023-02-17,prod,Env2,OpCategory1,ResCategory2,RwsCategory2,1094,9.35
+CALA,CompanyA,SupportGroup3,John Doe,Change Request,Unresolved,Critical,KU052HB6I6,Product2,Category1,2023-02-18,nprod,Env3,OpCategory2,ResCategory2,RwsCategory3,1010,23.71
+APAC,CompanyD,SupportGroup3,Jane Smith,Incident,Unresolved,High,KGG3MA70JU,Product3,Category3,2023-02-19,nprod,Env2,OpCategory1,ResCategory1,RwsCategory2,1116,4.89
+EMEA,CompanyD,SupportGroup2,Bob Brown,Change Request,Resolved,High,U1C20NJ8KH,Product1,Category3,2023-02-20,nprod,Env1,OpCategory3,ResCategory2,RwsCategory1,1182,16.91
+NAM,CompanyD,SupportGroup1,John Doe,Incident,Unresolved,Low,ZV54R9DSJ2,Product3,Category2,2023-02-21,prod,Env1,OpCategory3,ResCategory2,RwsCategory1,622,15.35
+NAM,CompanyD,SupportGroup1,Jane Smith,Service Request,In Progress,High,4GCRCZUGKY,Product2,Category1,2023-02-22,nprod,Env1,OpCategory2,ResCategory2,RwsCategory3,1212,14.82
+EMEA,CompanyB,SupportGroup3,Alice Johnson,Incident,Unresolved,Medium,8BSJOGVS8J,Product3,Category2,2023-02-23,prod,Env2,OpCategory1,ResCategory2,RwsCategory3,93,12.02
+CALA,CompanyB,SupportGroup3,Jane Smith,Service Request,Unresolved,Low,6POY5BTGNG,Product1,Category1,2023-02-24,prod,Env2,OpCategory2,ResCategory3,RwsCategory3,212,16.95
+NAM,CompanyC,SupportGroup3,Jane Smith,Incident,Unresolved,Critical,MFY9NZYWLU,Product3,Category3,2023-02-25,nprod,Env2,OpCategory1,ResCategory1,RwsCategory1,926,7.84
+APAC,CompanyB,SupportGroup2,John Doe,Service Request,In Progress,Medium,0SMK44RE98,Product2,Category2,2023-02-26,prod,Env3,OpCategory3,ResCategory2,RwsCategory3,267,11.23
+EMEA,CompanyB,SupportGroup3,Jane Smith,Service Request,Unresolved,Low,9T83QJ4610,Product3,Category2,2023-02-27,nprod,Env3,OpCategory1,ResCategory1,RwsCategory3,1068,4.27
+EMEA,CompanyB,SupportGroup3,John Doe,Service Request,Resolved,High,5K5VBGMU97,Product2,Category2,2023-02-28,prod,Env2,OpCategory2,ResCategory1,RwsCategory2,685,18.2
+NAM,CompanyC,SupportGroup1,Jane Smith,Incident,Unresolved,Low,ZBTQD5PAIF,Product3,Category1,2023-03-01,nprod,Env3,OpCategory2,ResCategory1,RwsCategory3,1120,12.39
+CALA,CompanyB,SupportGroup3,John Doe,Incident,Unresolved,Low,CKQV83DAMS,Product3,Category2,2023-03-02,prod,Env1,OpCategory1,ResCategory1,RwsCategory3,888,16.88
+CALA,CompanyD,SupportGroup1,John Doe,Incident,Resolved,High,5U4NBHWY8P,Product1,Category3,2023-03-03,nprod,Env1,OpCategory1,ResCategory2,RwsCategory3,188,15.75
+CALA,CompanyC,SupportGroup2,John Doe,Incident,Unresolved,Medium,SZ15CT8R8U,Product3,Category2,2023-03-04,prod,Env1,OpCategory3,ResCategory3,RwsCategory2,389,14.31
+NAM,CompanyD,SupportGroup1,Jane Smith,Service Request,Unresolved,Critical,II8I7SBRBE,Product3,Category1,2023-03-05,nprod,Env1,OpCategory2,ResCategory1,RwsCategory2,1023,17.47
+CALA,CompanyB,SupportGroup2,Alice Johnson,Incident,Resolved,Medium,HT7W5K34IU,Product1,Category2,2023-03-06,prod,Env2,OpCategory2,ResCategory2,RwsCategory3,1202,13.42
+CALA,CompanyC,SupportGroup2,Bob Brown,Change Request,Unresolved,High,48CQVQOUOE,Product3,Category2,2023-03-07,nprod,Env3,OpCategory2,ResCategory1,RwsCategory3,15,22.91
+EMEA,CompanyA,SupportGroup3,Bob Brown,Change Request,Unresolved,Low,S6REJ7UVSR,Product2,Category3,2023-03-08,prod,Env1,OpCategory2,ResCategory2,RwsCategory3,1016,8.98
+NAM,CompanyB,SupportGroup1,Jane Smith,Change Request,Unresolved,High,KUYLVFCCU6,Product2,Category3,2023-03-09,prod,Env3,OpCategory3,ResCategory1,RwsCategory3,675,18.78
+EMEA,CompanyA,SupportGroup1,John Doe,Incident,Unresolved,Medium,Q95MV896IF,Product1,Category1,2023-03-10,nprod,Env3,OpCategory1,ResCategory3,RwsCategory3,272,17.62
+NAM,CompanyC,SupportGroup1,Jane Smith,Incident,Resolved,Low,G1GPEK63HU,Product3,Category2,2023-03-11,prod,Env1,OpCategory3,ResCategory3,RwsCategory3,1382,19.82
+EMEA,CompanyB,SupportGroup2,Jane Smith,Change Request,In Progress,Low,7HBXREO1VQ,Product1,Category1,2023-03-12,nprod,Env1,OpCategory2,ResCategory1,RwsCategory2,1198,21.64
+EMEA,CompanyA,SupportGroup1,Jane Smith,Service Request,In Progress,Critical,QVMKSME5ZS,Product3,Category1,2023-03-13,prod,Env2,OpCategory2,ResCategory3,RwsCategory2,820,20.62
+NAM,CompanyA,SupportGroup2,Jane Smith,Incident,Resolved,Low,RWOHCEFHXN,Product1,Category2,2023-03-14,nprod,Env3,OpCategory2,ResCategory2,RwsCategory2,534,0.44
+CALA,CompanyD,SupportGroup2,John Doe,Change Request,Resolved,Low,ISTEPDZ960,Product1,Category3,2023-03-15,prod,Env3,OpCategory2,ResCategory2,RwsCategory1,320,9.61
+CALA,CompanyB,SupportGroup3,John Doe,Service Request,Resolved,Medium,SDVXISLOFU,Product1,Category3,2023-03-16,prod,Env3,OpCategory1,ResCategory2,RwsCategory2,1291,19.56
+EMEA,CompanyB,SupportGroup3,Alice Johnson,Incident,In Progress,Low,QTVJH1E91J,Product2,Category2,2023-03-17,nprod,Env3,OpCategory2,ResCategory1,RwsCategory2,1373,23.03
+EMEA,CompanyA,SupportGroup3,John Doe,Service Request,Resolved,Critical,QI282ZTHHR,Product1,Category1,2023-03-18,nprod,Env1,OpCategory2,ResCategory3,RwsCategory2,649,4.98
+EMEA,CompanyD,SupportGroup2,Alice Johnson,Change Request,In Progress,Low,8KKPJA5TJZ,Product1,Category2,2023-03-19,nprod,Env3,OpCategory1,ResCategory2,RwsCategory1,469,14.24
+APAC,CompanyA,SupportGroup3,Jane Smith,Incident,Resolved,High,A4PJ7L50RV,Product1,Category1,2023-03-20,prod,Env2,OpCategory1,ResCategory2,RwsCategory2,736,16.77
+EMEA,CompanyB,SupportGroup1,John Doe,Change Request,In Progress,Medium,QQSGOT6AXD,Product3,Category2,2023-03-21,nprod,Env3,OpCategory1,ResCategory1,RwsCategory3,808,12.94
+CALA,CompanyB,SupportGroup1,Bob Brown,Service Request,Resolved,High,ILVQVY576N,Product1,Category3,2023-03-22,nprod,Env3,OpCategory1,ResCategory2,RwsCategory2,1324,0.43
+NAM,CompanyD,SupportGroup2,Alice Johnson,Incident,In Progress,High,LNY1XD8W6T,Product2,Category2,2023-03-23,nprod,Env1,OpCategory2,ResCategory1,RwsCategory1,950,10.87
+CALA,CompanyA,SupportGroup1,John Doe,Incident,In Progress,Medium,UZ5MLVO7F0,Product2,Category3,2023-03-24,prod,Env1,OpCategory1,ResCategory3,RwsCategory3,1277,3.74
+CALA,CompanyC,SupportGroup1,Bob Brown,Incident,In Progress,Medium,41JFZGIK38,Product2,Category1,2023-03-25,nprod,Env1,OpCategory1,ResCategory1,RwsCategory1,326,13.93
+EMEA,CompanyB,SupportGroup2,Alice Johnson,Change Request,Unresolved,High,P5LF4I10AZ,Product2,Category3,2023-03-26,prod,Env3,OpCategory1,ResCategory3,RwsCategory2,128,20.45
+EMEA,CompanyC,SupportGroup3,Bob Brown,Service Request,In Progress,Critical,Z15HLAXLL8,Product1,Category3,2023-03-27,prod,Env2,OpCategory3,ResCategory3,RwsCategory1,747,9.49
+APAC,CompanyD,SupportGroup2,John Doe,Incident,Resolved,High,9K603GVOSV,Product3,Category2,2023-03-28,prod,Env1,OpCategory3,ResCategory3,RwsCategory2,1028,21.17
+NAM,CompanyA,SupportGroup3,Alice Johnson,Service Request,In Progress,Low,HNDRZYAMMO,Product1,Category2,2023-03-29,nprod,Env2,OpCategory2,ResCategory3,RwsCategory2,1194,6.5
+EMEA,CompanyA,SupportGroup2,Bob Brown,Service Request,Unresolved,Critical,96Q15VUBNE,Product2,Category1,2023-03-30,nprod,Env1,OpCategory1,ResCategory3,RwsCategory1,1234,5.89
+EMEA,CompanyD,SupportGroup3,Bob Brown,Incident,Resolved,Medium,XOHDQCIT4U,Product3,Category2,2023-03-31,prod,Env3,OpCategory2,ResCategory2,RwsCategory1,428,14.27
+EMEA,CompanyC,SupportGroup3,Alice Johnson,Change Request,Resolved,Critical,AMDSTVA1UL,Product2,Category2,2023-04-01,prod,Env2,OpCategory3,ResCategory2,RwsCategory2,839,18.64
+EMEA,CompanyC,SupportGroup1,Bob Brown,Incident,Resolved,Critical,AT9BG9BSHT,Product2,Category1,2023-04-02,prod,Env2,OpCategory1,ResCategory3,RwsCategory1,176,12.71
+EMEA,CompanyD,SupportGroup2,Bob Brown,Service Request,Resolved,Low,RC4RLJFLIM,Product2,Category2,2023-04-03,nprod,Env1,OpCategory2,ResCategory3,RwsCategory1,249,17.13
+CALA,CompanyB,SupportGroup3,Alice Johnson,Incident,Unresolved,Critical,WNA4GIMRRR,Product1,Category2,2023-04-04,nprod,Env2,OpCategory2,ResCategory2,RwsCategory2,203,20.61
+CALA,CompanyA,SupportGroup3,Jane Smith,Service Request,Resolved,High,511WTLUUPJ,Product3,Category1,2023-04-05,nprod,Env3,OpCategory3,ResCategory2,RwsCategory3,1397,20.09
+APAC,CompanyB,SupportGroup2,Bob Brown,Service Request,Resolved,High,5QS1J7GI4V,Product1,Category2,2023-04-06,prod,Env2,OpCategory1,ResCategory2,RwsCategory3,273,4.87
+CALA,CompanyD,SupportGroup3,Jane Smith,Incident,Resolved,Critical,GA1PWMO0GL,Product1,Category3,2023-04-07,nprod,Env1,OpCategory3,ResCategory3,RwsCategory3,1063,19.28
+NAM,CompanyB,SupportGroup2,Jane Smith,Service Request,Unresolved,Low,00EBF1OF1Q,Product1,Category3,2023-04-08,prod,Env1,OpCategory2,ResCategory1,RwsCategory1,648,23.14
+APAC,CompanyB,SupportGroup1,Jane Smith,Change Request,Unresolved,Medium,DMRLZSIXTC,Product3,Category2,2023-04-09,nprod,Env1,OpCategory1,ResCategory3,RwsCategory2,369,1.06
+APAC,CompanyD,SupportGroup1,Alice Johnson,Incident,Unresolved,Critical,K5MX2FGCNS,Product2,Category3,2023-04-10,nprod,Env3,OpCategory1,ResCategory1,RwsCategory1,634,20.05
